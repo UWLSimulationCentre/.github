@@ -1,5 +1,5 @@
+<center> <img src="https://i.imgur.com/Hoq8m18.png"/> </center>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Nice to see you. </h1>
-
 
 <p>Welcome to the <b>University of West London's Simulation Centre</b> GitHub Page! </br> We provide Nursing, Midwifery & Healthcare education to students in <b>London & Reading, England</b> <img src="https://cdn-icons-png.flaticon.com/512/323/323270.png" width="14"/> </p>
 <h3><b>Things our team can code with</b></h3>
