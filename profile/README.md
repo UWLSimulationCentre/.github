@@ -16,6 +16,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="PowerApps" src="https://img.shields.io/badge/-PowerApps-b256b8?style=flat-square&logo=powerapps&logoColor=white" />
+  <img alt="PowerAutomate" src="https://img.shields.io/badge/-PowerAutomate-3a4fee?style=flat-square&logo=powerautomate&logoColor=white" />
 </p>
 <h3><b>Open Source Projects</b></h3>
 <table>
@@ -42,6 +44,20 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/uwlsimulationcentre/eMORA.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/uwlsimulationcentre/eMORA.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/uwlsimulationcentre/eMORA.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/uwlsimulationcentre/Discipulus-Hub"><b>Discipulus-Hub</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/uwlsimulationcentre/Discipulus-Hub.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/uwlsimulationcentre/Discipulus-Hub.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/uwlsimulationcentre/Discipulus-Hub.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/uwlsimulationcentre/Discipulus-Hub.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/uwlsimulationcentre/Codex"><b>Codex</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/uwlsimulationcentre/Codex.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/uwlsimulationcentre/Codex.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/uwlsimulationcentre/Codex.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/uwlsimulationcentre/Codex.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
