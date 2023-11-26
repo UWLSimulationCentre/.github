@@ -63,5 +63,5 @@
 </table>
 
 <h3>Where to find us</h3>
-<p><a href="https://github.com/UWLSimulationCentre" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.uwl.ac.uk/business/university-venue-hire/medical-simulation-centre" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<p><a href="https://github.com/UWLSimulationCentre" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.uwl.ac.uk/business/university-venue-hire/medical-simulation-centre" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-3669ce.svg?&style=for-the-badge&logo=weblate&logoColor=white" /></a> <a href="https://twitter.com/UWLSimCentre" target="_blank"><img alt="X" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
