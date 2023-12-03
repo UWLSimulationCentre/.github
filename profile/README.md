@@ -59,6 +59,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/uwlsimulationcentre/Codex.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/uwlsimulationcentre/Codex.svg?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/uwlsimulationcentre/Recordatio"><b>Recordatio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/uwlsimulationcentre/Recordatio.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/uwlsimulationcentre/Recordatio.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/uwlsimulationcentre/Recordatio.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/uwlsimulationcentre/Recordatio.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
