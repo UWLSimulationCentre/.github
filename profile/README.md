@@ -32,6 +32,13 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/uwlsimulationcentre/Simulated-Placement-Staff-Handbook"><b>Simulated-Placement-Staff-Handbook</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/uwlsimulationcentre/Simulated-Placement-Staff-Handbook.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/uwlsimulationcentre/Simulated-Placement-Staff-Handbook.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/uwlsimulationcentre/Simulated-Placement-Staff-Handbook.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/uwlsimulationcentre/Simulated-Placement-Staff-Handbook.svg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/uwlsimulationcentre/SimEPR-SimWard-Staff-Course"><b>SimEPR-SimWard-Staff-Course</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/uwlsimulationcentre/SimEPR-SimWard-Staff-Course.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/uwlsimulationcentre/SimEPR-SimWard-Staff-Course.svg?style=flat-square&labelColor=343b41"/></td>
